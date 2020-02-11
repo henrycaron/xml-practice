@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href = "setlist_style.css"?>
+
+<songs>
+	<song>
+		<title>Livin' On A Prayer</title>
+		<artist>Bon Jovi</artist>
+		<genre>Rock</genre>
+		<year>1986</year>
+	</song>
+	<song>
+		<title>Every Breath you Take</title>
+		<artist>The Police</artist>
+		<genre>Pop</genre>
+		<year>1983</year>
+	</song>
+	<song>
+		<title>Girls Just Want to Have Fun</title>
+		<artist>Cyndi Lauper</artist>
+		<genre>Pop</genre>
+		<year>1983</year>
+	</song>
+	<song>
+		<title>Sweet Child O' Mine</title>
+		<artist>Guns N' Roses</artist>
+		<genre>Rock</genre>
+		<year>1987</year>
+	</song>
+	<song>
+		<title>Never Gonna Give You Up</title>
+		<artist>Rick Astley</artist>
+		<genre>Pop</genre>
+		<year>1987</year>
+	</song>
+	<song>
+		<title>Wake Me Up Before You Go Go</title>
+		<artist>Wham!</artist>
+		<genre>Pop</genre>
+		<year>1984</year>
+	</song>
+	<song>
+		<title>Everybody Wants to Rule the World</title>
+		<artist>Tears for Fears</artist>
+		<genre>Rock</genre>
+		<year>1985</year>
+	</song>
+	<song>
+		<title>Tainted Love</title>
+		<artist>Soft Cell</artist>
+		<genre>Pop</genre>
+		<year>1981</year>
+	</song>
+	<song>
+		<title>The Final Countdown</title>
+		<artist>Europe</artist>
+		<genre>Rock</genre>
+		<year>1986</year>
+	</song>
+	<song>
+		<title>Don't Stop Believin'</title>
+		<artist>Journey</artist>
+		<genre>Rock</genre>
+		<year>1981</year>
+	</song>
+</songs>

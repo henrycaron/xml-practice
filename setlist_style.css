@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+bandname {display:block; font-size: 30px; font-style: oblique}
+song {display:block; 
+	margin-bottom: 15px; 
+	padding-bottom: 10px;
+	border-bottom: .7px solid #333;
+	font-family:"Gill Sans", Helvetica, Arial, "sans-serif";
+}
+
+title {display: block; 
+	   font-style: normal;
+	   font-size: 20px
+}
+
+artist {
+	display: block;
+	font-style: italic; 
+font-size: 18px
+}
+
+genre {font-size: 14px;
+		border-right: .7px solid #333;
+		padding-right: 5px}
+
+year { font-size: 14px;}
